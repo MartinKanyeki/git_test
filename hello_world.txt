@@ -1,1 +1,2 @@
-#learning how to commit cahnges in git
+#learning how to commit changes in git
+#Its very interesting
