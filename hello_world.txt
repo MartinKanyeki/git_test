@@ -1,2 +1,2 @@
 #learning how to commit changes in git
-#Its very interesting
+Its very interesting
